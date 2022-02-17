@@ -1,0 +1,10 @@
+span{color: blue;}
+.first{color: red;}
+.text.second{color: blue;}
+h1{color: yellow;}
+#section_actor{color: green;}
+footer{color: blue;}
+.footer_footer>ul>li>a{color: red;}
+[href*=_film]{color: blue;}
+*{color: yellow;}
+.last .text{color: #f00a0a;}
